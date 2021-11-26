@@ -1,0 +1,11 @@
+###
+POST http://localhost:5000/register
+Content-Type: application/json
+
+{
+  "name": "gillee"
+  , "email": "gillee0320@naver.com"
+  , "password": "q1w2e3r4"
+}
+
+###
