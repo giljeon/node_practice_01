@@ -1,2 +1,5 @@
 # Project exclude paths
 /node_modules/
+.idea/codeStyles/
+.idea/vcs.xml
+/config/dev.js
